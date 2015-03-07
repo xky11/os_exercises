@@ -7,7 +7,19 @@
 分析你所认识的操作系统（Windows、Linux、FreeBSD、Android、iOS）所具有的独特和共性的功能？
 - [x]  
 
->  操作系统（Operating System，简称OS）是管理和控制计算机硬件与软件资源的计算机程序，是直接运行在“裸机”上的最基本的系统软件，任何其他软件都必须在操作系统的支持下才能运行。
+>  共性：
+   进程管理（Processing management）
+   内存管理（Memory management）
+   文件系统（File system）
+   网络通讯（Networking）
+   安全机制（Security）
+   用户界面（User interface）
+   驱动程序（Device drivers）
+   特性：
+   Windows系统使用范围最广泛。
+   Linux系统是开源的系统，在专业领域使用最多。大量其他的操作系统就是基于Linux运行的。
+   FreeBSD基于UNIX内核，与UNIX的兼容性好，也有很多系统就是借鉴FreeBSD产生。
+   Android和iOS是运用于移动客户端的操作系统。
 
 请总结你认为操作系统应该具有的特征有什么？并对其特征进行简要阐述。
 - [x]  
@@ -19,12 +31,12 @@
 请给出你觉得的更准确的操作系统的定义？
 - [x]  
 
->   
+>   操作系统（Operating System，简称OS）是管理和控制计算机硬件与软件资源的计算机程序，是直接运行在“裸机”上的最基本的系统软件，任何其他软件都必须在操作系统的支持下才能运行。
 
 你希望从操作系统课学到什么知识？
 - [x]  
 
->   
+>   了解更多操作系统的工作原理。
 
 ---
 
